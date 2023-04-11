@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titulo": "Jogo Acerte a Palavra",
+        "texto": "Jogo Acere a palavra é um jogo inspirado no famoso Wordle e nas suas versões brasileiras: Termo, Palavra do Dia e Letreco."
+    },
+    {
+        "id": 2,
+        "titulo": "Calculadora",
+        "texto": "Projeto de uma calculadora com JavaScript."
+    },
+    {
+        "id": 3,
+        "titulo": "Formulário de Cadastro",
+        "texto": "Formulário de cadastro responsivo."
+    },
+    {
+        "id": 4,
+        "titulo": "Card Avaliação de Usuário",
+        "texto": "Card de avaliação de um serviço ou produto pelo usuário."
+    },
+    {
+        "id": 5,
+        "titulo": "Jogo Acerte o Número Secreto",
+        "texto": "Jogo Acerte o Número Secreto."
+    },
+    {
+        "id": 6,
+        "titulo": "Easybank Landing Page",
+        "texto": "Landing Page do Easybank."
+    },
+    {
+        "id": 7,
+        "titulo": "Loopstudios Landing Page",
+        "texto": "Loopstudios Landing Page."
+    },
+    {
+        "id": 8,
+        "titulo": "Bookmark Landing Page",
+        "texto": "Bookmark Landing Page."
+    }
+]
