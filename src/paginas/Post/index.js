@@ -14,6 +14,10 @@ export default function Post() {
         // parametros.id é uma string
     })
 
+    if (!projeto) {
+        return <h1>Projeto não encontrado :(</h1>
+    }
+
     return (
         <PostModelo
             fotoCapa={fotoCapa}

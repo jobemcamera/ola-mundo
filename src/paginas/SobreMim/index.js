@@ -21,10 +21,10 @@ export default function SobreMim() {
             />
 
             <p className={styles.paragrafo}>
-                Tenho 29 anos, moro em Bananal, estado de São Paulo. Sou uma pessoa apaixonada por jogos, cinema, música e conhecimento. Me considero uma pessoa divertida, sempre tentando fazer as pessoas rirem. Gosto de saber de todos os assuntos, por isso sempre busco aprender coisas novas e aprimorar as conhecidas.  
+                Nascido em 1994, moro em Bananal, estado de São Paulo. Sou uma pessoa apaixonada por jogos, cinema, música e conhecimento. Me considero uma pessoa divertida, sempre tentando fazer as pessoas rirem. Gosto de saber de todos os assuntos, por isso sempre busco aprender coisas novas e aprimorar as conhecidas.  
             </p>
             <p className={styles.paragrafo}>
-                Na adolescência, fiquei louco por Guns N' Roses, e com 15 anos, comecei a aprender a tocar violão. Com 16, meu pai me deu minha primeira guitarra (hoje tem 4). Tive banda dos 19 aos 26 anos, tocando em vários locais e eventos. Já fui em diversos shows das minhas bandas preferidas, incluindo duas edições do Rock in Rio, 2013 e 2017.
+                Na adolescência, fiquei louco por Guns N' Roses, e com 15 anos, comecei a aprender a tocar violão. Com 16, meu pai me deu minha primeira guitarra (hoje tenho 4). Tive banda dos 19 aos 26 anos, tocando em vários locais e eventos. Já fui em diversos shows das minhas bandas preferidas, incluindo duas edições do Rock in Rio, 2013 e 2017.
             </p>
             <p className={styles.paragrafo}>
                 Comecei minha vida profissional no restaurante dos meus pais com apenas 12 anos de idade, e até hoje continuo os ajudando sempre que posso.
