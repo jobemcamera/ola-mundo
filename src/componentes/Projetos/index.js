@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import styles from './Projetos.module.css';
 
 import React from 'react'
+import BotaoPrincipal from 'componentes/BotaoPrincipal';
 
 export default function Projetos({ projeto }) {
     return (
@@ -13,7 +14,7 @@ export default function Projetos({ projeto }) {
                     alt="Imagem de capa do Projeto"
                 />
                 <h2 className={styles.titulo}>{projeto.titulo}</h2>
-                <button className={styles.botaoVer}>Ver</button>
+                <BotaoPrincipal>Ler</BotaoPrincipal>
             </div>
         </Link>
     )

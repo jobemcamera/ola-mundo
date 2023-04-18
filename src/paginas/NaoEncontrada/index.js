@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './NaoEcontrada.module.css'
+import BotaoPrincipal from 'componentes/BotaoPrincipal'
 
 export default function NaoEncontrada() {
     return (
@@ -11,7 +12,7 @@ export default function NaoEncontrada() {
                     Tem certeza de que era isso que você estava procurando?
                 </p>
                 <div className={styles.botaoContainer}>
-                    <button>Voltar</button>
+                    <BotaoPrincipal tamanho="lg">Voltar</BotaoPrincipal>
                 </div>
             </div>
 
