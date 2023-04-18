@@ -21,18 +21,14 @@ export default function Post() {
     }
 
     return (
-        <Routes>
-            <Route path="*" element={<PaginaPadrao />}>
-                <Route index element={
-                    <PostModelo fotoCapa={fotoCapa} titulo={projeto.titulo}>
-                        <div className='post-markdown-container'>
-                            <ReactMarkdown>
-                                {projeto.texto}
-                            </ReactMarkdown>
-                        </div>
-                    </PostModelo>
-                } />
-            </Route>
-        </Routes>
+        <PaginaPadrao>
+            <PostModelo fotoCapa={fotoCapa} titulo={projeto.titulo}>
+                <div className='post-markdown-container'>
+                    <ReactMarkdown>
+                        {projeto.texto}
+                    </ReactMarkdown>
+                </div>
+            </PostModelo>
+        </PaginaPadrao>
     )
 }
