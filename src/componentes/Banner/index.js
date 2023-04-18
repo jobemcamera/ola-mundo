@@ -13,11 +13,6 @@ export default function Banner() {
                 </p>
             </div>
             <div className={styles.imagens}>
-                {/* <img 
-                    src={circuloColorido} 
-                    className={styles.circuloColorido}
-                    aria-hidden={true}
-                /> */}
                 <img
                     src="https://github.com/jobemcamera.png"
                     className={styles.minhaFoto} 
