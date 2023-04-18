@@ -7,6 +7,10 @@ export default function NaoEncontrada() {
 
     const navegar = useNavigate()
 
+    function voltarPagina() {
+        return navegar(-1)
+    }
+
     return (
         <>
             <div className={styles.conteudoContainer}>
@@ -15,8 +19,8 @@ export default function NaoEncontrada() {
                 <p className={styles.paragrafo}>
                     Tem certeza de que era isso que você estava procurando?
                 </p>
-                <div className={styles.botaoContainer} onClick={() => navegar(-1)}>
-                    <BotaoPrincipal tamanho="lg">
+                <div className={styles.botaoContainer}>
+                    <BotaoPrincipal tamanho="lg" acao={voltarPagina}>
                         Voltar
                     </BotaoPrincipal>
                 </div>

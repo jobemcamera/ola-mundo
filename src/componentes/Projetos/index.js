@@ -14,7 +14,7 @@ export default function Projetos({ projeto }) {
                     alt="Imagem de capa do Projeto"
                 />
                 <h2 className={styles.titulo}>{projeto.titulo}</h2>
-                <BotaoPrincipal>Ler</BotaoPrincipal>
+                <BotaoPrincipal>Ver Projeto</BotaoPrincipal>
             </div>
         </Link>
     )
