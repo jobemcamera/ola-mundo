@@ -1,12 +1,13 @@
 .link {
     font-size: 1.55rem;
     line-height: 1.5rem;
-    color: var(--cor-fonte-secundaria);
+    color: var(--azul-claro);
     font-weight: 700;
+    font-family: var(--fonte-secundaria);
 }
 
 .link:hover {
-    color: var(--azul-medio);
+    color: var(--cor-fonte-principal);
 }
 
 .linkDestacado {

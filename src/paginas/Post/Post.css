@@ -3,6 +3,7 @@
 .post-markdown-container h5,
 .post-markdown-container h6 {
     font-family: var(--fonte-secundaria);
+    color: var(--branco);
 }
 
 .post-markdown-container h3 {
@@ -20,6 +21,7 @@
     font-size: 1.5rem;
     line-height: 2.25rem;
     margin-bottom: 1.5rem;
+    color: var(--branco);
 }
 
 .post-markdown-container a {

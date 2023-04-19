@@ -1,6 +1,6 @@
 import React from 'react'
 import './Post.css'
-import { Route, Routes, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import { ReactMarkdown } from 'react-markdown/lib/react-markdown';
 import fotoCapa from "assets/sobre_mim_capa.png"
 import projetos from "json/projetos.json"

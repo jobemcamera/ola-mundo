@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: center;
     column-gap: 3rem;
+    color: var(--cor-fonte-principal);
 }
 
 @media (max-width: 744px) {
