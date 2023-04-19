@@ -21,21 +21,16 @@
     },
     {
         "id": 5,
-        "titulo": "Jogo Acerte o Número Secreto",
-        "texto": "Jogo Acerte o Número Secreto."
-    },
-    {
-        "id": 6,
         "titulo": "Easybank Landing Page",
         "texto": "Landing Page do Easybank."
     },
     {
-        "id": 7,
+        "id": 6,
         "titulo": "Loopstudios Landing Page",
         "texto": "Loopstudios Landing Page."
     },
     {
-        "id": 8,
+        "id": 7,
         "titulo": "Bookmark Landing Page",
         "texto": "Bookmark Landing Page."
     }

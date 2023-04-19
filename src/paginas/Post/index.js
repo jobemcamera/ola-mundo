@@ -2,7 +2,6 @@ import React from 'react'
 import './Post.css'
 import { useParams } from 'react-router-dom'
 import { ReactMarkdown } from 'react-markdown/lib/react-markdown';
-import fotoCapa from "assets/sobre_mim_capa.png"
 import projetos from "json/projetos.json"
 import PostModelo from 'componentes/PostModelo';
 import NaoEncontrada from 'paginas/NaoEncontrada';
@@ -22,7 +21,7 @@ export default function Post() {
 
     return (
         <PaginaPadrao>
-            <PostModelo fotoCapa={fotoCapa} titulo={projeto.titulo}>
+            <PostModelo  titulo={projeto.titulo}>
                 <div className='post-markdown-container'>
                     <ReactMarkdown>
                         {projeto.texto}
