@@ -8,6 +8,7 @@ export default function Inicio() {
     return (
         <>
             <PostModelo titulo="Início" />
+
             <ul className={styles.projetos}>
                 {projetos.map((projeto) =>
                     <li key={projeto.id}>
@@ -15,6 +16,7 @@ export default function Inicio() {
                     </li>
                 )}
             </ul>
+            
         </>
     )
 }
