@@ -10,7 +10,7 @@ export default function Inicio() {
             <PostModelo titulo="Início" />
 
             <ul className={styles.projetos}>
-                {projetos.map((projeto) =>
+                {projetos.sort((a,b) => b.id - a.id).map((projeto) =>
                     <li key={projeto.id}>
                         <Projetos projeto={projeto} />
                     </li>

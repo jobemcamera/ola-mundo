@@ -16,7 +16,7 @@
     font-size: 2rem;
 }
 
-.post-markdown-container p {
+.post-markdown-container p, ul {
     text-align: justify;
     font-size: 1.5rem;
     line-height: 2.25rem;
@@ -26,7 +26,7 @@
 
 .post-markdown-container a {
     color: #0493d4;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .post-markdown-container img {
@@ -41,6 +41,7 @@
 
 .post-markdown-container ul > li {
     margin-bottom: 1rem;
+    margin-left: 5rem;
     list-style: disc;
 }
 

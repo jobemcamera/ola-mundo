@@ -1,37 +1,47 @@
 [
     {
         "id": 1,
-        "titulo": "Jogo Acerte a Palavra",
-        "texto": "Jogo Acere a palavra é um jogo inspirado no famoso Wordle e nas suas versões brasileiras: Termo, Palavra do Dia e Letreco."
-    },
-    {
-        "id": 2,
-        "titulo": "Calculadora",
-        "texto": "Projeto de uma calculadora com JavaScript."
-    },
-    {
-        "id": 3,
-        "titulo": "Formulário de Cadastro",
-        "texto": "### Introdução \n\n Formulários da web são uma parte fundamental de muitos sites e aplicativos, permitindo que os usuários interajam e enviem informações para os proprietários do site. Um formulário da web é uma interface interativa que coleta dados inseridos pelos usuários, como nome, endereço de e-mail, mensagem, etc., e os envia para o servidor do site para processamento. Esses formulários são amplamente utilizados em uma variedade de contextos, como formulários de contato, inscrições em newsletters, login de usuários, enquetes e muito mais. \n\n Os formulários da web geralmente são compostos por campos de entrada, botões de envio e outros elementos de interface do usuário que permitem que os usuários preencham e enviem informações. Esses campos podem ser de vários tipos, como campos de texto, caixas de seleção, botões de rádio, menus suspensos e outros, e podem ter requisitos de validação para garantir que os dados inseridos estejam corretos. \n\n ### O Projeto \n\n \n\n O projeto Formulário de Cadastro foi um estudo de caso para a prática e aprendizagem de um formulário padrão da web. Para a criação desta aplicação, utilizei as seguintes tecnologias: ```HTML```, ```CSS``` e ```JavaScript``` \n\n ![image](https://user-images.githubusercontent.com/109925623/232343646-1e0dde79-cb28-4808-832b-9cc9643e3cdb.png) \n\n\n Além das funcionalidades padrão do formulário, a aplicação é responsiva, o que torna a página adequada para diferentes formatos de telas. \n\n Esse foi meu primeiro contato com as ```media queries```, onde para cada dimensão em pixels declarada, os elementos serão dispostos de maneiras diferentes. \n\n ### Links \n[GitHub](https://github.com/jobemcamera/responsive-registration-form) \n\n [Deploy](https://responsive-registration-form-ox1gcxkkh-jobemcamera.vercel.app/)"
-    },
-    {
-        "id": 4,
         "titulo": "Card Avaliação de Usuário",
         "texto": "Card de avaliação de um serviço ou produto pelo usuário."
     },
     {
+        "id": 2,
+        "titulo": "To Do List",
+        "texto": "To Do List"
+    },
+    {
+        "id": 3,
+        "titulo": "Intro Section Dropdown",
+        "texto": "Intro Section Dropdown"
+    },
+    {
+        "id": 4,
+        "titulo": "Formulário de Cadastro",
+        "texto": "### Introdução \n\n Formulários da web são uma parte fundamental de muitos sites e aplicativos, permitindo que os usuários interajam e enviem informações para os proprietários do site. Um formulário da web é uma interface interativa que coleta dados inseridos pelos usuários, como nome, endereço de e-mail, mensagem, etc., e os envia para o servidor do site para processamento. Esses formulários são amplamente utilizados em uma variedade de contextos, como formulários de contato, inscrições em newsletters, login de usuários, enquetes e muito mais. \n\n Os formulários da web geralmente são compostos por campos de entrada, botões de envio e outros elementos de interface do usuário que permitem que os usuários preencham e enviem informações. Esses campos podem ser de vários tipos, como campos de texto, caixas de seleção, botões de rádio, menus suspensos e outros, e podem ter requisitos de validação para garantir que os dados inseridos estejam corretos. \n\n ### O Projeto \n\n \n\n O projeto Formulário de Cadastro foi um estudo de caso para a prática e aprendizagem de um formulário padrão da web. Para a criação desta aplicação, utilizei as seguintes tecnologias: ```HTML```, ```CSS``` e ```JavaScript``` \n\n ![image](https://user-images.githubusercontent.com/109925623/232343646-1e0dde79-cb28-4808-832b-9cc9643e3cdb.png) \n\n\n Além das funcionalidades padrão do formulário, a aplicação é responsiva, o que torna a página adequada para diferentes formatos de telas. \n\n Esse foi meu primeiro contato com as ```media queries```, onde para cada dimensão em pixels declarada, os elementos serão dispostos de maneiras diferentes. \n\n ### Links \n[GitHub](https://github.com/jobemcamera/responsive-registration-form) \n\n [Deploy](https://responsive-registration-form-ox1gcxkkh-jobemcamera.vercel.app/)"
+    },
+    {
         "id": 5,
+        "titulo": "Calculadora",
+        "texto": "Projeto de uma calculadora com JavaScript."
+    },
+    {
+        "id": 6,
         "titulo": "Easybank Landing Page",
         "texto": "Landing Page do Easybank."
     },
     {
-        "id": 6,
+        "id": 7,
         "titulo": "Loopstudios Landing Page",
         "texto": "Loopstudios Landing Page."
     },
     {
-        "id": 7,
+        "id": 8,
         "titulo": "Bookmark Landing Page",
         "texto": "Bookmark Landing Page."
+    },
+    {
+        "id": 9,
+        "titulo": "Jogo Acerte a Palavra",
+        "texto": "### Introdução \n\n Você já jogou aquele famoso jogo [Wordle](https://www.nytimes.com/games/wordle/index.html)? E as versões brasileiras [Palavra do Dia](https://palavra-do-dia.pt/), [Termo](https://term.ooo/) e [Letreco](https://www.gabtoschi.com/letreco/)? Eu adoro esses jogos e depois de passar um bom tempo neles, decidi criar minha própria versão: [Acerte a Palavra](https://acerteapalavra.vercel.app/). \n\n ![image](https://user-images.githubusercontent.com/109925623/225011820-3081e930-d763-4109-8d11-ec61a1ac8ec3.png) \n\n\n ### Motivação \n\n\n Voltando um pouco no tempo, em agosto de 2022, eu comecei a pensar em como fazer uma versão desses jogos. Naquela época, eu praticava as palavras neles diariamente, e estava começando a aprender a tríade do Front-End: HTML, CSS e JavaScript. As únicas coisas que eu consegui fazer foram criar o repositório no GitHub e uma tela cheia de inputs. De fato, eu precisava estudar mais... E então, a jornada começou! \n\n\n ### O Jogo \n\n\n O objetivo do jogo é acertar a palavra sorteada em 6 tentivas. Para cada letra inserida que formará a palavra, será analisada e terá como retorno uma cor específica. São elas: \n\n - Verde: Letra existe na palavra e está na posição correta; \n - Amarelo: Letra existe mas está na posição errada; \n - Cinza: Letra não existe na palavra. \n\n ![image](https://user-images.githubusercontent.com/109925623/225012209-0b16cab1-7242-46df-99ac-887e54b1c95e.png) \n\nPalavras inválidas não serão contabilizadas como erro, portanto o usuário poderá apagar a palavra e tentar novamente. Se o usuário acertar a palavra, para cada ordem de tentativa (1 à 6), uma mensagem personalizada de vitória será mostrada na tela. Caso o usuário esgote todas as tentativas, a palavra sorteada será mostrada na tela. \n\n Diferentemente dos jogos anteriormente mencionados, o Acerte a Palavra é mais dinâmico, ou seja, a cada vitória ou derrota, o usuário poderá jogar novamente, não tendo que esperar o dia seguinte para jogar de novo. \n\n ### O Desenvolvimento \n\n Para a criação do jogo, foram utilizadas as seguintes tecnologias: \n\n - HTML; \n - CSS; \n - JavaScript. \n\n Para alimentar Para alimentar uma lista de palavras de 5 letras, foi utilizada a lista do [Dicio](https://www.dicio.com.br/palavras-com-cinco-letras/) que contém 1000 exemplares. Ao longo dos meus testes e feedback de amigos, fui incluindo manualmente novas palavras possíveis. \n\n Utilizei duas abordagens diferentes para Mobile/Tablet e Desktop. Para Mobile/Tablet, o usuário poderá utilizar o teclado virtual para inserir as letras nos inputs, não sendo possível escolher a ordem delas, somente seguindo o que o jogo permitir. \n\n ![image](https://user-images.githubusercontent.com/109925623/225013015-19c74374-82de-4852-a617-5ef65d994815.png) \n\n Para a versão Desktop, o teclado virtual é bloqueado, sendo possível somente utilizar o teclado físico da máquina. Aqui o usuário poderá escolher a ordem de digitação das letras, bastando dar foco (clicando) no input que quiser. \n\n Essa diferença de abordagem dos dispositivos foi devido a minha escolha de trabalhar com inputs do tipo texto. Isso fez com que tivesse que manipular eventos de click e foco, além da lógica de avançar e voltar com as letras nos inputs. \n\n Cada usuário poderá conferir suas estatísticas de acordo com os jogos que participar. Há um botão que na página que irá abrir um Modal com as seguintes informações: \n\n - Número de jogos; \n - Número de vitórias; \n - Sequência de vitórias; \n - Melhor sequência; \n - Gráfico em barras indicando a quantidade de derrotas e vitórias para cada ordem de acerto (1 a 6 tentativas). \n\n ![image](https://user-images.githubusercontent.com/109925623/225012103-fed15b26-1c95-4441-8acb-6d3995db89fa.png) \n\n Todas as informações dessas estatísticas são salvas no LocalStorage do navegador que o usuário estiver jogando.\n\n Para mais informações sobre as etapas de desenvolvimento, você poderá conferir no repositório diretamente no GitHub, conforme link abaixo. \n\n ### Links \n[GitHub](https://github.com/jobemcamera/palavra-do-dia) \n\n [Deploy](https://acerteapalavra.vercel.app/)"
     }
 ]
