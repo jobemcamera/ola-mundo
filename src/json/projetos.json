@@ -27,7 +27,7 @@
     {
         "id": 6,
         "titulo": "Easybank Landing Page",
-        "texto": "Landing Page do Easybank."
+        "texto": "### Introdução \n\n Bem-vindo(a) à nossa Landing Page da Easybank! Nós somos um banco moderno e inovador, comprometido em fornecer soluções financeiras inteligentes e personalizadas para os nossos clientes. Oferecemos serviços de Internet Banking, orçamentos simplificados, integração rápida e API aberta para você gerenciar o seu dinheiro da maneira que quiser. \n\n ### O Projeto \n\n Este projeto é um desafio [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Neste desafio o objetivo é replicar o projeto proposto o mais fiel possível. Para a solução, utilizei as seguintes tecnologias: \n\n - HTML; \n - CSS; \n - JavaScript. \n\n ![image](https://user-images.githubusercontent.com/109925623/210118070-a5c5705d-067e-4588-a5d5-fd124cd92b34.png) \n\n O projeto tinha um grande desafio, que era manipular duas imagens sobrepostas no Baner, algo que até então eu não havia me deparado. A solução encontrada foi com a manipulação de CSS com as propriedades de **background** dentro do seletor **img**. \n\n Para mais informações sobre as etapas de desenvolvimento, você poderá conferir no repositório diretamente no GitHub, conforme link abaixo. \n\n ### Links \n[GitHub](https://github.com/jobemcamera/easybank-landing-page) \n\n [Deploy](https://easybank-landing-page-nine-pied.vercel.app/)"
     },
     {
         "id": 7,
