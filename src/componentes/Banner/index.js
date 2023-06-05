@@ -8,7 +8,7 @@ export default function Banner() {
             <div className={styles.apresentacao}>
                 <h1 className={styles.titulo}>Olá, Mundo!</h1>
                 <p className={styles.paragrafo}>
-                    Seja bem-vindo ao meu espaço pessoal! Eu sou o Jobe Camera, Desenvolvedor Front-End, estudante de TI, Engenheiro Civil, jogador de Tibia nato e guitarrista nas horas vagas!
+                    Seja bem-vindo ao meu espaço pessoal! Eu sou o Jobe Camera, Desenvolvedor Front-End, estudante de TI, Engenheiro Civil, jogador nato de Tibia e guitarrista nas horas vagas!
                     Aqui irei compartilhar um pouco sobre mim e meus projetos!
                 </p>
             </div>
