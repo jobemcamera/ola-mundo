@@ -2,7 +2,7 @@
 
 ## O Projeto
 
-Este projeto foi baseado no treinamento Olá Mundo da Alura, onde além de aprender como o React.js funciona, é uma excelente página para contar um pouco sobre nossa história.
+Este projeto foi baseado no treinamento Olá Mundo da Alura, onde além de aprender como o React.js funciona, é uma excelente página para contar um pouco sobre nossa história. Além disso, essa SPA (Single Page Application), é um vitrine dos meus principais projetos que estão aqui na GitHub.
 
 ## Tecnologias
 
