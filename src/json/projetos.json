@@ -37,7 +37,7 @@
     {
         "id": 8,
         "titulo": "Bookmark Landing Page",
-        "texto": "Bookmark Landing Page."
+        "texto": "### Introdução \n\n Bem-vindo(a) à nossa Landing Page da Bookmark! Uma interface limpa e simples para organizar seus websites favoritos. Com ele, você terá a facilidade de abrir uma nova aba no navegador e ver seus sites carregando instantaneamente. Experimente gratuitamente e descubra como é fácil gerenciar seus favoritos de maneira eficiente. \n\n ### O Projeto \n\n Este projeto é um desafio [Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158). Neste desafio o objetivo é replicar o projeto proposto o mais fiel possível. Para a solução, utilizei as seguintes tecnologias: \n\n - HTML; \n - CSS; \n - SASS (SCSS); \n - JavaScript. \n\n ![image](https://user-images.githubusercontent.com/109925623/213922734-7424cfaa-4108-49c5-aa0f-f462da025cff.png) \n\n O projeto tinha dois principais desafios. O primeiro era criar três abas horizontais que, ao serem acionadas, mudavam o conteúdo exibido. O segundo desafio foi criar um acordeão, onde cada aba vertical acionada, exibia um conteúdo diferente. E claro, não posso esquecer de mencionar que a parte da responsividade também foi bastante desafiadora. \n\n Para mais informações sobre as etapas de desenvolvimento, você poderá conferir no repositório diretamente no GitHub, conforme link abaixo. \n\n ### Links \n[GitHub](https://github.com/jobemcamera/bookmark-landing-page) \n\n [Deploy](https://bookmark-landing-page-kappa-blue.vercel.app/)"
     },
     {
         "id": 9,
