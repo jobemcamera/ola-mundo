@@ -32,7 +32,7 @@
     {
         "id": 7,
         "titulo": "Loopstudios Landing Page",
-        "texto": "Loopstudios Landing Page."
+        "texto": "### Introdução \n\n Bem-vindo(a) à nossa Landing Page da Loopstudios! Fundada em 2011, a Loopstudios tem produzido projetos de realidade virtual de classe mundial para algumas das melhores empresas ao redor do mundo. Nossas criações premiadas têm transformado negócios por meio de experiências digitais que se conectam à sua marca. \n\n ### O Projeto \n\n Este projeto é um desafio [Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Neste desafio o objetivo é replicar o projeto proposto o mais fiel possível. Para a solução, utilizei as seguintes tecnologias: \n\n - HTML; \n - CSS; \n - SASS (SCSS); \n - JavaScript. \n\n ![image](https://user-images.githubusercontent.com/109925623/211121495-55fc8b51-a984-4a53-a0b7-99a0372d87af.png) \n\n O projeto tinha um grande desafio, que era manipular a uma imagem com o corpo do texto informativo da Loopstudios. \n\n Usei e abusei dos **mixins** do SCSS. **Mixins** são blocos reutilizáveis de código que podem ser incluídos em outras partes do código para fornecer estilos específicos ou funcionalidades. Eles são semelhantes a funções, mas são usados principalmente para gerar estilos CSS. E claro, não posso esquecer de mencionar que a parte da responsividade também foi bastante desafiadora. \n\n Para mais informações sobre as etapas de desenvolvimento, você poderá conferir no repositório diretamente no GitHub, conforme link abaixo. \n\n ### Links \n[GitHub](https://github.com/jobemcamera/loopstudios-landing-page) \n\n [Deploy](https://loopstudios-landing-page-gilt.vercel.app/)"
     },
     {
         "id": 8,
